@@ -20,7 +20,7 @@ void print_pal(char *s, int low, int high)
 
 void biggest_pal(char *s)
 {
-	int	i;
+	int i;
 	int len;
 	int low;
 	int high;
