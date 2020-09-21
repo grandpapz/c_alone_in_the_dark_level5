@@ -30,7 +30,7 @@ void biggest_pal(char *s)
 	len = 0;
 	while (s[len])
 		len++;
-	i = 1;
+	i = 0;
 	max_len = 1;
 	while (++i < len)
 	{ 
